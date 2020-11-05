@@ -60,7 +60,7 @@ function draw() {
   fill("green")
   textSize(50)
   text("Press space to get a second chance!!",200,100)
-  text("But, pls be sure to press Ctrl & - togther 4 times, before starting",200,150)
+  text("But, pls be sure to press Ctrl & - togther 3-4 times...",200,150)
   boy.display()
   tree.display()
   stone.display()
