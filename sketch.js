@@ -24,7 +24,7 @@ function setup() {
 	world = engine.world;
 
 	/*Creating the Bodies Here.*/
-boy=new Boy(250+150,529,20,20)
+boy=new Boy(500,529,20,20)
 ground=new Ground(width/2,702,width,20)
 tree = new Tree(1200+200,400,50,50)
 stone=new Stone(235,500,48.3,39.3)
